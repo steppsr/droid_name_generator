@@ -17,6 +17,18 @@ USAGE: bash droid_name_generator.sh INTEGER
 
 ```
 
+# Output
+
+```
+$ bash droid_name_generator.sh 5
+I-H
+L6-21
+J2-90
+RC-7
+JR-37
+
+```
+
 # Versions
 
 Version 0.1 - Initial version with basic functionality.
